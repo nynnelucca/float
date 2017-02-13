@@ -1,2 +1,6 @@
 A leaf detached from its tree is a floating object 
 If it is placed on water
+If the leaf is still attached to the tree
+It WILL float in the air
+But not really because the tree
+Is not floating
